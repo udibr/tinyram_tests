@@ -1,3 +1,3 @@
 [submodule "libsnark"]
 	path = libsnark
-	url = git@github.com:udibr/libsnark.git
+	url = https://github.com/udibr/libsnark.git
