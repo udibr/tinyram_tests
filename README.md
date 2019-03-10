@@ -16,11 +16,4 @@ cd tinyram_tests
 git submodule update --init --recursive
 ./examples.sh
 ```
-You should see printout of 
-```
-...
-The verification result is: PASS
-...
-The verification result is: FAIL
-...
-```
+You should see printout  ends with `All clear!`
